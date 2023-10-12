@@ -1,3 +1,4 @@
+https://www.jsckot.top/about/index.html
 https://www.jsckot.top/2023/08/12/Redis%E4%BA%94%E7%A7%8D%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E7%9A%84%E5%BA%95%E5%B1%82%E5%8E%9F%E7%90%86/
 https://www.jsckot.top/2023/08/02/redis%E4%B8%AD%E7%9A%84%E5%B8%B8%E7%94%A8%E6%8C%87%E4%BB%A4%EF%BC%88%E9%9D%9E%E5%B8%B8%E9%AB%98%E9%A2%91%EF%BC%89/
 https://www.jsckot.top/music/index.html
@@ -8,7 +9,6 @@ https://www.jsckot.top/2023/07/30/Ajax/
 https://www.jsckot.top/2023/07/30/SpringBoot/
 https://www.jsckot.top/2023/07/30/RabbitMQstudy/
 https://www.jsckot.top/2023/07/30/Linux/
-https://www.jsckot.top/about/index.html
 https://www.jsckot.top/categories/index.html
 https://www.jsckot.top/tags/index.html
 https://www.jsckot.top/link/index.html
