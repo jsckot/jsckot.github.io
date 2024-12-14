@@ -1,5 +1,6 @@
-https://www.jsckot.top/music/index.html
+https://www.jsckot.top/2024/12/15/ZZS%E5%9C%A3%E8%AF%9E%E5%BF%AB%E4%B9%90/
 https://www.jsckot.top/tags/index.html
+https://www.jsckot.top/music/index.html
 https://www.jsckot.top/link/index.html
 https://www.jsckot.top/categories/index.html
 https://www.jsckot.top/2024/12/14/%E5%9F%BA%E4%BA%8EHexo%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/
@@ -16,10 +17,11 @@ https://www.jsckot.top/
 https://www.jsckot.top/tags/Ajax/
 https://www.jsckot.top/tags/Linux/
 https://www.jsckot.top/tags/Markdown/
+https://www.jsckot.top/tags/RabbitMQ%E5%AE%9E%E6%88%98/
 https://www.jsckot.top/tags/RabbitMQ/
 https://www.jsckot.top/tags/Redis/
-https://www.jsckot.top/tags/RabbitMQ%E5%AE%9E%E6%88%98/
 https://www.jsckot.top/tags/SpringBoot/
+https://www.jsckot.top/tags/ZZS/
 https://www.jsckot.top/tags/Hexo/
 https://www.jsckot.top/categories/%E5%89%8D%E5%90%8E%E7%AB%AF%E4%BA%A4%E4%BA%92/
 https://www.jsckot.top/categories/%E9%83%A8%E7%BD%B2/
@@ -27,4 +29,5 @@ https://www.jsckot.top/categories/Markdown/
 https://www.jsckot.top/categories/%E6%B6%88%E6%81%AF%E4%B8%AD%E9%97%B4%E4%BB%B6/
 https://www.jsckot.top/categories/%E9%9D%9E%E5%85%B3%E7%B3%BB%E5%9E%8B%E6%95%B0%E6%8D%AE%E5%BA%93/
 https://www.jsckot.top/categories/%E5%BE%AE%E6%9C%8D%E5%8A%A1/
+https://www.jsckot.top/categories/ZZS/
 https://www.jsckot.top/categories/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/
