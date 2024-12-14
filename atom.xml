@@ -122,27 +122,6 @@
   </entry>
   
   <entry>
-    <title>一些常用的Markdown语法</title>
-    <link href="https://www.jsckot.top/2024/12/14/Markdown%E5%B8%B8%E7%94%A8%E7%9A%84%E8%AF%AD%E6%B3%95/"/>
-    <id>https://www.jsckot.top/2024/12/14/Markdown%E5%B8%B8%E7%94%A8%E7%9A%84%E8%AF%AD%E6%B3%95/</id>
-    <published>2024-12-14T14:50:10.544Z</published>
-    <updated>2024-12-14T14:50:10.544Z</updated>
-    
-    <content type="html"><![CDATA[<p>MD常用的语法：</p><h1 id="一级标题（-一级标题名字）"><a href="#一级标题（-一级标题名字）" class="headerlink" title="一级标题（# 一级标题名字）"></a>一级标题（# 一级标题名字）</h1><h2 id="二级标题（-二级标题名字）"><a href="#二级标题（-二级标题名字）" class="headerlink" title="二级标题（## 二级标题名字）"></a>二级标题（## 二级标题名字）</h2><h3 id="三级标题（-三级标题名字）"><a href="#三级标题（-三级标题名字）" class="headerlink" title="三级标题（### 三级标题名字）"></a>三级标题（### 三级标题名字）</h3><h4 id="四级标题（-四级标题名字）"><a href="#四级标题（-四级标题名字）" class="headerlink" title="四级标题（#### 四级标题名字）"></a>四级标题（#### 四级标题名字）</h4><h5 id="五级标题（-五级标题名字）"><a href="#五级标题（-五级标题名字）" class="headerlink" title="五级标题（##### 五级标题名字）"></a>五级标题（##### 五级标题名字）</h5><h6 id="六级标题（-六级标题名字）"><a href="#六级标题（-六级标题名字）" class="headerlink" title="六级标题（###### 六级标题名字）"></a>六级标题（###### 六级标题名字）</h6><p>ctrl+t 表格</p><table><thead><tr><th></th><th></th></tr></thead><tbody><tr><td></td><td></td></tr></tbody></table><p><em>斜体</em>（* 要斜体的内容 *）</p><p><strong>加粗</strong>（** 要加粗内容 **）</p><pre class="line-numbers language-java" data-language="java"><code class="language-java"><span class="token comment">// 代码块</span><span class="token keyword">public</span> <span class="token class-name">String</span> <span class="token function">test</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">&#123;</span>    <span class="token class-name">Sysytem</span><span class="token punctuation">.</span>out<span class="token punctuation">.</span><span class="token function">println</span><span class="token punctuation">(</span><span class="token string">"I'm Jsckot"</span><span class="token punctuation">)</span><span class="token punctuation">;</span><span class="token punctuation">&#125;</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span></span></code></pre><p>（&#96;&#96;&#96;加要输入的代码的格式）</p><p>$ x+y$ （$公式$）</p><p>$$ 公式块 $$</p><p>上标^1^</p><p>下标 <del>1</del></p><p>列表(序号前面一个小空格，点后面一个小空格)</p><p>1.<br>2. </p><ul><li>（- 要输入的内容）</li></ul><p>代办(- [ ] 代办事项的内容)</p><ul><li><input disabled="" type="checkbox"> 代办事项</li><li><input checked="" disabled="" type="checkbox"> 123</li></ul><p>图像：(cv即可，比较方便)</p><p><img src="C:\Users\34136\AppData\Roaming\Typora\typora-user-images\image-20230729200002358.png" alt="image-20230729200002358"></p><p>分割线（— 加 回车）</p><hr>]]></content>
-    
-    
-    <summary type="html">介绍的一些使用频率较高的Markdown语法</summary>
-    
-    
-    
-    <category term="Markdown" scheme="https://www.jsckot.top/categories/Markdown/"/>
-    
-    
-    <category term="Markdown" scheme="https://www.jsckot.top/tags/Markdown/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Linux</title>
     <link href="https://www.jsckot.top/2024/12/14/Linux/"/>
     <id>https://www.jsckot.top/2024/12/14/Linux/</id>
@@ -160,6 +139,27 @@
     
     
     <category term="Linux" scheme="https://www.jsckot.top/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>一些常用的Markdown语法</title>
+    <link href="https://www.jsckot.top/2024/12/14/Markdown%E5%B8%B8%E7%94%A8%E7%9A%84%E8%AF%AD%E6%B3%95/"/>
+    <id>https://www.jsckot.top/2024/12/14/Markdown%E5%B8%B8%E7%94%A8%E7%9A%84%E8%AF%AD%E6%B3%95/</id>
+    <published>2024-12-14T14:50:10.544Z</published>
+    <updated>2024-12-14T14:50:10.544Z</updated>
+    
+    <content type="html"><![CDATA[<p>MD常用的语法：</p><h1 id="一级标题（-一级标题名字）"><a href="#一级标题（-一级标题名字）" class="headerlink" title="一级标题（# 一级标题名字）"></a>一级标题（# 一级标题名字）</h1><h2 id="二级标题（-二级标题名字）"><a href="#二级标题（-二级标题名字）" class="headerlink" title="二级标题（## 二级标题名字）"></a>二级标题（## 二级标题名字）</h2><h3 id="三级标题（-三级标题名字）"><a href="#三级标题（-三级标题名字）" class="headerlink" title="三级标题（### 三级标题名字）"></a>三级标题（### 三级标题名字）</h3><h4 id="四级标题（-四级标题名字）"><a href="#四级标题（-四级标题名字）" class="headerlink" title="四级标题（#### 四级标题名字）"></a>四级标题（#### 四级标题名字）</h4><h5 id="五级标题（-五级标题名字）"><a href="#五级标题（-五级标题名字）" class="headerlink" title="五级标题（##### 五级标题名字）"></a>五级标题（##### 五级标题名字）</h5><h6 id="六级标题（-六级标题名字）"><a href="#六级标题（-六级标题名字）" class="headerlink" title="六级标题（###### 六级标题名字）"></a>六级标题（###### 六级标题名字）</h6><p>ctrl+t 表格</p><table><thead><tr><th></th><th></th></tr></thead><tbody><tr><td></td><td></td></tr></tbody></table><p><em>斜体</em>（* 要斜体的内容 *）</p><p><strong>加粗</strong>（** 要加粗内容 **）</p><pre class="line-numbers language-java" data-language="java"><code class="language-java"><span class="token comment">// 代码块</span><span class="token keyword">public</span> <span class="token class-name">String</span> <span class="token function">test</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">&#123;</span>    <span class="token class-name">Sysytem</span><span class="token punctuation">.</span>out<span class="token punctuation">.</span><span class="token function">println</span><span class="token punctuation">(</span><span class="token string">"I'm Jsckot"</span><span class="token punctuation">)</span><span class="token punctuation">;</span><span class="token punctuation">&#125;</span><span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span></span></code></pre><p>（&#96;&#96;&#96;加要输入的代码的格式）</p><p>$ x+y$ （$公式$）</p><p>$$ 公式块 $$</p><p>上标^1^</p><p>下标 <del>1</del></p><p>列表(序号前面一个小空格，点后面一个小空格)</p><p>1.<br>2. </p><ul><li>（- 要输入的内容）</li></ul><p>代办(- [ ] 代办事项的内容)</p><ul><li><input disabled="" type="checkbox"> 代办事项</li><li><input checked="" disabled="" type="checkbox"> 123</li></ul><p>图像：(cv即可，比较方便)</p><p><img src="C:\Users\34136\AppData\Roaming\Typora\typora-user-images\image-20230729200002358.png" alt="image-20230729200002358"></p><p>分割线（— 加 回车）</p><hr>]]></content>
+    
+    
+    <summary type="html">介绍的一些使用频率较高的Markdown语法</summary>
+    
+    
+    
+    <category term="Markdown" scheme="https://www.jsckot.top/categories/Markdown/"/>
+    
+    
+    <category term="Markdown" scheme="https://www.jsckot.top/tags/Markdown/"/>
     
   </entry>
   
